@@ -9,28 +9,27 @@ IAM Analyst / Identity Governance Analyst / GRC Analyst con foco en identidad.
 ## ENFOQUE DEL PORTFOLIO
 
 Este portfolio está orientado a:
-
-– Control de accesos basado en riesgo
-– Gobierno de identidades (IGA)
-– Gestión de privilegios
-– Evidencia auditable
-– Alineación con marcos como **ISO 27001** y **ENS**
-– Uso práctico de **Microsoft Entra ID**
+  - Control de accesos basado en riesgo
+  - Gobierno de identidades (IGA)
+  - Gestión de privilegios
+  - Evidencia auditable
+  - Alineación con marcos como **ISO 27001** y **ENS**
+  - Uso práctico de **Microsoft Entra ID**
 
 Se prioriza:
-– Justificación de decisiones
-– Relación riesgo → control → evidencia
-– Lenguaje entendible para auditoría y negocio
+- Justificación de decisiones
+- Relación riesgo → control → evidencia
+- Lenguaje entendible para auditoría y negocio
 
 ## STACK Y TECNOLOGÍAS
 
-– Microsoft Entra ID (Azure AD)
-– Conditional Access
-– Privileged Identity Management (PIM)
-– MFA y autenticación moderna
-– Logging y auditoría de identidad
-– Enfoque Zero Trust
-– Marcos: ISO 27001, ENS
+- Microsoft Entra ID (Azure AD)
+- Conditional Access
+- Privileged Identity Management (PIM)
+- MFA y autenticación moderna
+- Logging y auditoría de identidad
+- Enfoque Zero Trust
+- Marcos: ISO 27001, ENS
 
 ## ESTRUCTURA DEL REPOSITORIO
 - (En desarrollo)
@@ -43,8 +42,5 @@ Las configuraciones y políticas están documentadas con enfoque formativo y eva
 
 ## CONTACTO Y PERFIL PROFESIONAL
 
-LinkedIn: [Mi Perfil](https://www.linkedin.com/in/luis-m-rodriguez-professional/)
-Rol objetivo: IAM / Identity Governance / GRC Analyst
-
-– Versión alternativa del README enfocada solo a RRHH
-– Checklist de “qué repo enseñar primero en entrevista”
+- LinkedIn: [Mi Perfil](https://www.linkedin.com/in/luis-m-rodriguez-professional/)
+- Rol objetivo: IAM / Identity Governance / GRC Analyst
