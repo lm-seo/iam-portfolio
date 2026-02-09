@@ -43,7 +43,7 @@ Las configuraciones y políticas están documentadas con enfoque formativo y eva
 
 ## CONTACTO Y PERFIL PROFESIONAL
 
-LinkedIn: [Linkedin]
+LinkedIn: [Mi Perfil](https://www.linkedin.com/in/luis-m-rodriguez-professional/)
 Rol objetivo: IAM / Identity Governance / GRC Analyst
 
 – Versión alternativa del README enfocada solo a RRHH
